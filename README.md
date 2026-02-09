@@ -34,7 +34,6 @@ The goal of this assignment is to understand how tokenization works across langu
 |------|-------------|
 | `NLP_HW-1(2.2).ipynb` | Jupyter notebook for Q2: Manual BPE + Python BPE learner |
 | `NLP_HW-1(5).py` | Full Telugu tokenization pipeline for Q5 |
-| `requirements.txt` | Required Python libraries |
 
 ---
 
